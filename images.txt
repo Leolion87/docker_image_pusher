@@ -1,2 +1,1 @@
-nginx
-tongweb/tongtech
+tongweb/tongtech:7.0.c2_p6_kylin_10_sp2_base
