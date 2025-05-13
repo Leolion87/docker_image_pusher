@@ -1,1 +1,4 @@
-tongweb/tongtech:7.0.c2_p6_kylin_10_sp2_base
+tongweb/tongtech:7.0.C.6_ubuntu_arm
+tongweb/tongtech:7.0.C.6_ubuntu
+tongweb/tongtech:7.0.C.6_centos
+tongweb/tongtech:7.0.C.6_kylin
