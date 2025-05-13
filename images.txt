@@ -1,4 +1,7 @@
-tongweb/tongtech:7.0.C.6_ubuntu_arm
 tongweb/tongtech:7.0.C.6_ubuntu
+tongweb/tongtech:7.0.C.6_ubuntu_arm
 tongweb/tongtech:7.0.C.6_centos
+tongweb/tongtech:7.0.C.6_centos_arm
 tongweb/tongtech:7.0.C.6_kylin
+tongweb/tongtech:7.0.C.6_kylin_arm
+
