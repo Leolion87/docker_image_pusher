@@ -1,1 +1,2 @@
-wagoodman/dive:latest
+opstool/kylin:v10sp1-aarch64
+hxsoong/kylin:v10-sp1
