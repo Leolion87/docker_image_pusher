@@ -1,2 +1,1 @@
-opstool/kylin:v10sp1-aarch64
-hxsoong/kylin:v10-sp1
+--platform=linux/arm64 linuxserver/libreoffice:7.6.7
